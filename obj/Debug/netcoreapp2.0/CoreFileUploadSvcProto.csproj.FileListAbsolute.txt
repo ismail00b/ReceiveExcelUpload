@@ -8,3 +8,13 @@ c:\Users\q847443\code\CoreFileUploadSvcProto\bin\Debug\netcoreapp2.0\CoreFileUpl
 c:\Users\q847443\code\CoreFileUploadSvcProto\bin\Debug\netcoreapp2.0\CoreFileUploadSvcProto.pdb
 c:\Users\q847443\code\CoreFileUploadSvcProto\obj\Debug\netcoreapp2.0\CoreFileUploadSvcProto.dll
 c:\Users\q847443\code\CoreFileUploadSvcProto\obj\Debug\netcoreapp2.0\CoreFileUploadSvcProto.pdb
+C:\Users\Q847443\source\repos\ReceiveExcelUpload\bin\Debug\netcoreapp2.0\CoreFileUploadSvcProto.deps.json
+C:\Users\Q847443\source\repos\ReceiveExcelUpload\bin\Debug\netcoreapp2.0\CoreFileUploadSvcProto.runtimeconfig.json
+C:\Users\Q847443\source\repos\ReceiveExcelUpload\bin\Debug\netcoreapp2.0\CoreFileUploadSvcProto.runtimeconfig.dev.json
+C:\Users\Q847443\source\repos\ReceiveExcelUpload\bin\Debug\netcoreapp2.0\CoreFileUploadSvcProto.dll
+C:\Users\Q847443\source\repos\ReceiveExcelUpload\bin\Debug\netcoreapp2.0\CoreFileUploadSvcProto.pdb
+C:\Users\Q847443\source\repos\ReceiveExcelUpload\obj\Debug\netcoreapp2.0\CoreFileUploadSvcProto.csproj.CoreCompileInputs.cache
+C:\Users\Q847443\source\repos\ReceiveExcelUpload\obj\Debug\netcoreapp2.0\CoreFileUploadSvcProto.AssemblyInfoInputs.cache
+C:\Users\Q847443\source\repos\ReceiveExcelUpload\obj\Debug\netcoreapp2.0\CoreFileUploadSvcProto.AssemblyInfo.cs
+C:\Users\Q847443\source\repos\ReceiveExcelUpload\obj\Debug\netcoreapp2.0\CoreFileUploadSvcProto.dll
+C:\Users\Q847443\source\repos\ReceiveExcelUpload\obj\Debug\netcoreapp2.0\CoreFileUploadSvcProto.pdb

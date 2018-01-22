@@ -12535,28 +12535,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\q847443\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Q847443\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\q847443\\code\\CoreFileUploadSvcProto\\CoreFileUploadSvcProto.csproj",
+      "projectUniqueName": "c:\\Users\\Q847443\\source\\repos\\ReceiveExcelUpload\\CoreFileUploadSvcProto.csproj",
       "projectName": "CoreFileUploadSvcProto",
-      "projectPath": "c:\\Users\\q847443\\code\\CoreFileUploadSvcProto\\CoreFileUploadSvcProto.csproj",
-      "packagesPath": "C:\\Users\\q847443\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\q847443\\code\\CoreFileUploadSvcProto\\obj\\",
+      "projectPath": "c:\\Users\\Q847443\\source\\repos\\ReceiveExcelUpload\\CoreFileUploadSvcProto.csproj",
+      "packagesPath": "C:\\Users\\Q847443\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Q847443\\source\\repos\\ReceiveExcelUpload\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\q847443\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Q847443\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://usadc-vsidppw44/PackageManagement/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

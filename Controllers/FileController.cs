@@ -13,7 +13,7 @@ namespace CoreFileUploadSvcProto.Controllers
     {
         // POST: /Account/Register
         [HttpPost]
-        public async Task Upload(IFormFile file)
+        public async Task<IActionResult> Upload(IFormFile file)
         {
             if (file == null) throw new Exception("File is null");
             if (file.Length == 0) throw new Exception("File is empty");
@@ -26,6 +26,7 @@ namespace CoreFileUploadSvcProto.Controllers
                     //await _uploadService.AddFile(fileContent, file.FileName, file.ContentType);
                 }
             }
+        return Ok("it worked");
         }
     }
 }
